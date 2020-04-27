@@ -1,5 +1,6 @@
 VAR 
   i : integer;
+  j : integer;
 
 BEGIN 
 
